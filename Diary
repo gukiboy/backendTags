@@ -1,0 +1,39 @@
+Thursday, March the 06.
+
+I had an idea of creating a Twitter like layout, just so I could practice some CSS. No, I did not have this idea today,
+but I felt that I actually started something insteresting today, so, I thought it would be a good idea to write a diary
+to report every activity done here.
+
+ - Explanation
+  As I said, it was supposed to be a simple layout using Bootstrap, but then I thought: "Why not to make an website, so
+  I can try to mess with web application and stuff?". That's what I am doing right now.
+  
+  I really like Heavy Metal music, so, I wanted to theme this site with something related to it. The idea is a place where
+  people write quick facts about important metal bands or subgenres, and other people rate it. If it has a lot of up votes,
+  it will be highlighted, if it has a lot of down votes, it will be deleted, plain and simple.
+  
+  I thought it that way because it's a way to avoid weird stuff like people posting about Justin Bieber or shit, and the
+  community would maintain it (of course, if a lot of people agree that the fact: "Justin Bieber is not gay" is true, and
+  it gets a lot of up votes, it won't be deleted. Community oriented stuff are definitely volatile). If a fact is not true,
+  and a lot of people notice and downvote it, it will be deleted or corrected.
+  
+  It's a simple project, and I would be delighted to read quick facts about my favorite metal bands, they are the kind of
+  thing that makes a conversation about music funny or at least more interesting.
+  
+ - Where we (or I) are (or am)
+  All I've really done up to now is the main page of the website (that is not yet complete). Tried to create the web 
+  application using Grails, but I still need to study a little before doing something from the scratch. The idea is 
+  to use SQLite for the data base, but it seems I'll have some trouble using it along with Hibernate.
+  
+ - Tools of the trade
+ 
+  *Grails
+  *Bootstrap
+  *SQLite
+  
+  There must be something more, but I can't remember or I don't know them.
+  
+  That's all for today, I think.
+  
+  Gustavo Kendy de Souza Kishima
+  
