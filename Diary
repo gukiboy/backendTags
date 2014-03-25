@@ -36,4 +36,26 @@ to report every activity done here.
   That's all for today, I think.
   
   Gustavo Kendy de Souza Kishima
+______________________________________________________________________________________________________________
+
+Tuesday, March the 25.
+
+I started to integrate the layout with the application, but I used Grails scaffold so I could see how it is done. It
+appears that nothing really strange is happening, all a matter of trying and reading the documentation. I still need
+to write about how the application is going to work, since it's just an idea up to now. I need to write down the
+functionalities and to create the database.
+
+ I just learned how to use the "<g:render/>" tag when in need of templates. I think it's a newbie matter, but okay,
+ I had to write it here anyway.
+ 
+ - Tasks
+ 
+ * Describe the application
+ * Create the data base model
+ 
+ That's it, I'll try to spend more time on it, really want to see this thing working.
+ 
+ Gustavo Kendy de Souza Kishima
+
+
   
