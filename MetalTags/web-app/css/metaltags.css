@@ -1,0 +1,66 @@
+/*Navigation bar style*/
+
+.nav-title-text
+{
+	font-size:32px;
+}
+
+ body
+{
+	background-color:gray;
+	padding-top:75px;
+}
+
+.nav-button
+{
+	border-left-color:white;
+	border-right-color:white;
+	transition: background-color 0.3s;
+}
+
+.nav-button:hover
+{
+	background-color:#6A6A6A;
+	color:#e3e3e3;
+}
+
+/*Navigation bar style end*/
+.fundo-preto
+{
+	background-color:black;
+}
+
+.texto-branco
+{
+	color:white;
+}
+
+.texto-vermelho
+{
+	color:red;
+}
+
+.texto-verde
+{
+	color:green;
+}
+
+.texto-cinza
+{
+	color:gray;
+}
+
+.fact-exibicao
+{
+	margin: 2px 2px 2px 2px;
+	text-align:justify;
+	transition: background-color 0.3s;
+}
+.fact-exibicao:hover{
+	background-color:#6A6A6A;
+	color:#e3e3e3;
+}
+.author{
+	color:clear-gray;
+	text-align:right;
+}

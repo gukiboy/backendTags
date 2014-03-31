@@ -1,11 +1,8 @@
 dataSource {
-    dbCreate = ""
-    logSql = "true"
-    dialect = "dialect.SQLiteDialect"
     pooled = true
-    driverClassName = "org.sqlite.JDBC"
-    url = jdbc:"sqlite:/home/gkishima/metaltags"
-    readOnly = "true"
+    driverClassName = "org.h2.Driver"
+    username = "sa"
+    password = ""
 }
 hibernate {
     cache.use_second_level_cache = true

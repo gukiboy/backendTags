@@ -2,10 +2,8 @@ package metaltags
 
 class Usuario {
 
-	String nome;
-	String senha;
+	String nome
 
 	static constraints = {
-
-    	}
+	}
 }
