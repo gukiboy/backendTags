@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="font-awesome-4.0.3/css/font-awesome.css">
 		<link rel="stylesheet" type="text/css" href="css/metaltags.css">
 		<script src="js/jquery-1.10.2.min.js"></script>
 		<script src="js/generalNavBar.js"></script>
@@ -24,8 +25,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -39,8 +40,8 @@
 								Joan Jett
 							</div>
 							<div class="footer ">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -54,8 +55,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -69,8 +70,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -84,8 +85,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -99,8 +100,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -114,8 +115,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -129,8 +130,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -144,8 +145,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -159,8 +160,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -174,8 +175,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>
@@ -189,8 +190,8 @@
 								Joan Jett
 							</div>
 							<div class="footer">
-								<a href="#"><span class="glyphicon glyphicon-ok texto-cinza"></span></a>
-								<a href="#"><span class="glyphicon glyphicon-remove texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-check texto-cinza"></span></a>
+								<a href="#"><span class="fa fa-times texto-cinza"></span></a>
 							</div>
 						</div>
 					</div>

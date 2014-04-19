@@ -12,14 +12,14 @@
 					<ul class="nav navbar-nav navbar-right">
 							<li class="nav-button">
 								<g:link controller="usuario" action="create">
-									<i class="glyphicon glyphicon-user"></i>
+									<i class="fa fa-user"></i>
 								</g:link>
 							</li>
 							<li class="nav-button">
-								<a href="#"><i class="glyphicon glyphicon-pencil"></i></a>
+								<a href="#"><i class="fa fa-pencil"></i></a>
 							</li>
 							<li class="nav-button active">
-								<a href="#"><i class="glyphicon glyphicon-list"></i></a>
+								<a href="#"><i class="fa fa-list"></i></a>
 							</li>
 
 					</ul>
